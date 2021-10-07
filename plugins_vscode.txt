@@ -1,0 +1,11 @@
+ESLint
+
+Highlight Matching Tag
+
+hightlight-selections-vscode
+
+prettier - code formatter
+
+Simple react snippets
+
+Visual studio intellicode
